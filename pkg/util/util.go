@@ -1,7 +1,7 @@
 package util
 
-// GetInstructionVersion - View README.md for version history
-func GetInstructionVersion(timeUnix int) int {
+// GetProgramVersion - View README.md for version history
+func GetProgramVersion(timeUnix int) int {
 	if timeUnix >= 1674853004 {
 		return 4
 	} else if timeUnix >= 1671600241 {
