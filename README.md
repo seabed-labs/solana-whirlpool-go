@@ -1,6 +1,6 @@
 # solana-whirlpool-go
 
-Solana Whirlpool Go Clients generated via anchor-go
+Solana Whirlpool Go Clients generated via dcaf-mocha/anchor-go
 
 ## Getting Started
 
